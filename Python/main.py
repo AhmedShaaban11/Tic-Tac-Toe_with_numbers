@@ -2,6 +2,7 @@
 # Project: Tic-Tac-Toe with numbers
 # Author: Ahmed Shaaban
 # Date: Feb. 24 2022
+# Version: 1.0
 """
 
 odd = [1, 3, 5, 7, 9]
