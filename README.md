@@ -11,3 +11,5 @@ A board of 3 x 3 is displayed and player 1 takes odd numbers 1, 3, 5, 7, 9 and p
 - Term: Second Term
 - Course: Programming-1 / Structured Programming
 - Assignment: A1
+## Additional
+- I was happy when doing that
